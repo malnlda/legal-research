@@ -1,6 +1,7 @@
 ---
 name: yd-case-search
-version: 2.0.0
+version: 2.0.1
+user_invocable: true
 description: |
   元典案例检索技能（开放平台版 https://open.chineselaw.com）。
   用于中国案例、类案、典型案例、权威案例的关键词检索与语义检索，以及案例详情拉取。

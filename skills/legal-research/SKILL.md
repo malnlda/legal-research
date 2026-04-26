@@ -1,6 +1,7 @@
 ---
 name: legal-research
-version: 1.0.0
+version: 1.0.1
+user_invocable: true
 description: |
   法律研究编排技能（meta-skill）。按"查法规 → 查案例 → 生成备忘录"流水线协同调度
   yd-law-search、yd-case-search、cs-china-lawyer-analyst 三个子技能，形成完整的

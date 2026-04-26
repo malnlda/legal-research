@@ -1,6 +1,7 @@
 ---
 name: yd-law-search
-version: 2.0.0
+version: 2.0.1
+user_invocable: true
 description: |
   元典法律法规检索技能（开放平台版 https://open.chineselaw.com）。
   用于中国法律、行政法规、司法解释、部门规章、地方性法规等规范性文件的检索。
