@@ -1,0 +1,3 @@
+[submodule "external/cs-china-lawyer-analyst"]
+	path = external/cs-china-lawyer-analyst
+	url = https://github.com/CSlawyer1985/china-lawyer-analyst.git
